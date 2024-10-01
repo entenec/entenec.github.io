@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://entenec.github.io/sitemap.html.gz
+Sitemap: https://entenec.github.io/app/sitemap.html.gz
+Sitemap: https://entenec.github.io/assets/sitemap.html.gz
+Sitemap: https://entenec.github.io/css/sitemap.html.gz
+Sitemap: https://entenec.github.io/data/sitemap.html.gz
+Sitemap: https://entenec.github.io/includes/sitemap.html.gz
+Sitemap: https://entenec.github.io/item/sitemap.html.gz
+Sitemap: https://entenec.github.io/src/sitemap.html.gz
